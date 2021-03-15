@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/node_modules
+/API/bin/Debug/netcoreapp3.1
+/API/obj
+/.vs
+/.vscode
+/API/reactivities.db
+/Domain/obj
+/Application/bin/Debug/netcoreapp2.1
+/Domain/bin/Debug/netcoreapp2.1
+/Persistance/bin/Debug/netcoreapp2.1
+/Application/obj
+/Persistance/obj
+/.vs/Reactivities/DesignTimeBuild/.dtbcache.v2
+/.vs/Reactivities/v16/.suo
+ 
